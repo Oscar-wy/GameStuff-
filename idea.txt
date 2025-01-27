@@ -1,0 +1,4 @@
+Firebase holds all relavant data
+Roblox is updated with firebase data on  log in
+code is held and run in Roblox
+data is updated and managed through firebase/website
